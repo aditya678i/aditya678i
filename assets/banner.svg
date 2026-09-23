@@ -1,0 +1,84 @@
+<svg fill="none" viewBox="0 0 1000 240" width="1000" height="240" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          background: linear-gradient(135deg, #090d16 0%, #170b2e 50%, #0d1b2a 100%);
+          border-radius: 16px;
+          height: 240px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          overflow: hidden;
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+          border: 1px solid rgba(168, 85, 247, 0.25);
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+        }
+        .glow {
+          position: absolute;
+          width: 320px;
+          height: 320px;
+          background: radial-gradient(circle, rgba(168, 85, 247, 0.25) 0%, rgba(0, 0, 0, 0) 70%);
+          top: -100px;
+          left: 50%;
+          transform: translateX(-50%);
+          pointer-events: none;
+        }
+        .title {
+          font-size: 46px;
+          font-weight: 800;
+          letter-spacing: -0.5px;
+          background: linear-gradient(90deg, #ffffff 0%, #d8b4fe 40%, #818cf8 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          margin: 0;
+          text-shadow: 0 0 30px rgba(168, 85, 247, 0.3);
+        }
+        .subtitle {
+          font-size: 16px;
+          color: #94a3b8;
+          font-weight: 500;
+          letter-spacing: 2px;
+          margin-top: 10px;
+          text-transform: uppercase;
+        }
+        .badge-bar {
+          display: flex;
+          gap: 12px;
+          margin-top: 20px;
+        }
+        .pill {
+          background: rgba(255, 255, 255, 0.05);
+          backdrop-filter: blur(8px);
+          border: 1px solid rgba(255, 255, 255, 0.1);
+          padding: 6px 16px;
+          border-radius: 9999px;
+          font-size: 13px;
+          color: #e2e8f0;
+          font-weight: 500;
+          display: flex;
+          align-items: center;
+          gap: 6px;
+        }
+        .dot {
+          width: 8px;
+          height: 8px;
+          border-radius: 50%;
+          background: #22c55e;
+          box-shadow: 0 0 10px #22c55e;
+        }
+      </style>
+      <div class="container">
+        <div class="glow"></div>
+        <h1 class="title">Aditya Singh</h1>
+        <div class="subtitle">AI &amp; Modern Web Developer • Full-Stack Engineer</div>
+        <div class="badge-bar">
+          <div class="pill"><span class="dot"></span> Available for Opportunities</div>
+          <div class="pill">⚡ Building High-Impact Tech</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

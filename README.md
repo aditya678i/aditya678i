@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=180&section=header&text=Aditya%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20Modern%20Web%20Builder&descAlignY=58&descSize=18" width="100%" />
+<!-- Header Banner (Directly from repository for 100% guaranteed uptime) -->
+<img src="./assets/banner.svg" alt="Aditya Singh Banner" width="100%" />
+
+<br/><br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-BUILDING%20AI%20SYSTEMS%20%26%20WEB%20APPS-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Status Badge"/>
@@ -9,7 +11,7 @@
 
 <!-- Animated Typing Banner -->
 <a href="https://github.com/aditya678i">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Hi,+I'm+Aditya+Singh+👋;Full-Stack+Engineer+%7C+Tech+Builder;Passionate+about+AI+%26+Modern+Development;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Hi,+I'm+Aditya+Singh+👋;Full-Stack+Engineer+%7C+Tech+Builder;Passionate+about+AI+%26+Modern+Development;Welcome+to+my+Profile!" alt="Typing SVG" />
 </a>
 
 <!-- Stats & Badges -->
@@ -59,17 +61,12 @@
 <h3>📊 Real-time GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya678i&show_icons=true&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=00c853&text_color=e0aaff&bg_color=0d1117" alt="Aditya's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya678i&theme=tokyonight&hide_border=true&stroke=a855f7&ring=a855f7&fire=ff007f&currStreakLabel=00c853&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=aditya678i&show_icons=true&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=00c853&text_color=e0aaff&bg_color=0d1117" alt="Aditya's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=aditya678i&theme=tokyonight&hide_border=true&stroke=a855f7&ring=a855f7&fire=ff007f&currStreakLabel=00c853&background=0d1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya678i&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=e0aaff&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aditya678i&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=e0aaff&bg_color=0d1117" alt="Top Languages" />
 </p>
-
-<br/>
-
-<!-- Footer Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer" width="100%" />
 
 </div>
