@@ -69,4 +69,9 @@
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aditya678i&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=e0aaff&bg_color=0d1117" alt="Top Languages" />
 </p>
 
+<br/>
+
+<!-- Blue Wave Footer -->
+<img src="./assets/footer.svg" alt="Footer Blue Wave" width="100%" />
+
 </div>
